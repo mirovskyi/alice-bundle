@@ -1,5 +1,5 @@
 {
-    "name": "hautelook/alice-bundle",
+    "name": "mirovskyi/alice-bundle",
     "description": "Symfony2 Bundle that helps loading fixture data written with the Alice library",
     "keywords": ["Symfony2", "Fixture", "ORM", "Alice"],
     "type": "symfony-bundle",
